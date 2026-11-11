@@ -28,7 +28,3 @@ features:
     title: 最多的业务
     details: 涵盖了猜你喜欢、热门推荐、商品分类、商品详情、微信登录、用户管理、地址管理、购物车管理、订单管理等功能。包含微信登录，微信支付等业务。
 ---
-
-<div class="home-container">
-  <img data-fancybox="gallery" src="https://badges.toozhao.com/badges/01GZZ947GMY13676X8N3FB5V32/green.svg" />
-</div>
